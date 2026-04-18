@@ -2,6 +2,8 @@
 
 A modern, high-speed tool for archiving websites locally. Built with Python and CustomTkinter, it features a sleek interface and powerful multi-threaded downloading capabilities.
 
+![Neofetch GUI Screenshot](screenshot.png)
+
 ## Features
 
 - **Self-Contained:** Everything is bundled within the Flatpak; no need to install Python libraries manually.
